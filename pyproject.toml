@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "tex-escape"
 description = 'A small package for escaping LaTeX.'
-version = "0.1"
+version = "0.1.1"
 readme = "README.md"
 requires-python = ">=3.7"
 license = "MIT"
