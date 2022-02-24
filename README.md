@@ -5,13 +5,6 @@
 
 -----
 
-## Table of Contents
-
-- [tex-escape](#tex-escape)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [License](#license)
-
 ## Installation
 
 ```console
@@ -21,3 +14,7 @@ pip install tex-escape
 ## License
 
 `tex-escape` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+
+## Credits
+
+Code borrowed from [this StackOverflow post](https://stackoverflow.com/a/25875504].
