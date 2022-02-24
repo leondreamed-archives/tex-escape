@@ -5,10 +5,12 @@
 
 -----
 
-**Table of Contents**
+## Table of Contents
 
-- [Installation](#installation)
-- [License](#license)
+- [tex-escape](#tex-escape)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [License](#license)
 
 ## Installation
 
